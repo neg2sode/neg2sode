@@ -1,4 +1,11 @@
-## Hi there 👋
+## Heyyyyyyyyyy!
+
+I'm Guqi, a maths undergrad at Imperial College London.
+
+I'm currently building Andare, which is an iOS app that calculates cadence for cycling and running workouts.
+
+Here are my contact details:
+Email: neg2sode@icloud.com
 
 <!--
 **neg2sode/neg2sode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
